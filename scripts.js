@@ -1,3 +1,4 @@
+
 let instructor = {
   name: "Menawer",
   courses: ["JavaScript", "React", "PHP"],
@@ -6,3 +7,5 @@ let instructor = {
     numberOfRepos: 200,
   },
 };
+
+alert("إساتذ مناور احسن إساذ ويب");
